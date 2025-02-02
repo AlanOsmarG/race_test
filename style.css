@@ -1,0 +1,20 @@
+.gametitle {
+    width: 80%;
+    height: 150px;
+}
+
+.titlegame {
+    width: 20%;
+    height: 50px;
+}
+
+.resetText {
+    color: cyan;
+}
+
+.resetButtom {
+    width: 60;
+    height: 60;
+    background-image: "reset.png";
+    border-radius: 30px;
+}
